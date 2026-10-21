@@ -11,8 +11,12 @@ Free Zeus from his chains across six chapters, from burning Thebes to the peak o
 [![Status: Demo](https://img.shields.io/badge/status-demo-orange?style=for-the-badge)](#-disclaimers)
 [![Made with AI](https://img.shields.io/badge/made%20with-AI-8a2be2?style=for-the-badge)](#-disclaimers)
 [![Three.js r128](https://img.shields.io/badge/three.js-r128-049ef4?style=for-the-badge&logo=threedotjs&logoColor=white)](https://threejs.org/)
-[![Runs in the browser](https://img.shields.io/badge/runs%20in-the%20browser-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](#-getting-started)
+[![Play online](https://img.shields.io/badge/play-online-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thebenn.me/Chains-of-Hera/)
 [![Bugs welcome](https://img.shields.io/badge/bugs%20%26%20feedback-welcome-d4a72c?style=for-the-badge)](https://github.com/BMKoscak/Chains-of-Hera/issues/new/choose)
+
+### [▶️ **PLAY ONLINE IN YOUR BROWSER**](https://thebenn.me/Chains-of-Hera/)
+
+<sub>No install needed. Click the link, then click the game and press <kbd>Enter</kbd>. Use <kbd>F11</kbd> for fullscreen.</sub>
 
 [**Getting started**](#-getting-started) · [**Controls**](#-controls) · [**Chapters**](#-the-six-chapters) · [**Disclaimers**](#-disclaimers) · [**Report a bug**](https://github.com/BMKoscak/Chains-of-Hera/issues/new/choose)
 
@@ -22,6 +26,8 @@ Free Zeus from his chains across six chapters, from burning Thebes to the peak o
 
 > [!IMPORTANT]
 > **This is an early demo.** It was **made with AI**, it can **change or break at any time**, and **bug reports and reviews are very welcome**. See the [disclaimers](#-disclaimers) for the details.
+>
+> 🎮 **[Play it online right now](https://thebenn.me/Chains-of-Hera/)**
 
 ## 📖 Table of contents
 
@@ -104,13 +110,26 @@ Beat a chapter to unlock the next one. Once more than one chapter is unlocked, t
 
 ## 🚀 Getting started
 
-### Requirements
+### ▶️ Play online (easiest)
+
+**[Play Chains of Hera in your browser](https://thebenn.me/Chains-of-Hera/)** — it is hosted with GitHub Pages, so there is nothing to download or install.
+
+- Use a desktop **Chromium-based browser** (Chrome or Edge recommended) with WebGL. Other browsers are untested.
+- **Click the game** so it can capture your mouse, then press <kbd>Enter</kbd> to begin. Press <kbd>F11</kbd> for fullscreen.
+- Your progress is saved in your browser for that site, so use the same browser to continue later.
+- The online version always follows the latest commit, so it can change at any time (see the [disclaimers](#-disclaimers)).
+
+### 💻 Run it locally
+
+Prefer to play offline or tinker with the code? Run it on your own machine.
+
+#### Requirements
 
 - A modern **Chromium-based browser** (Chrome or Edge recommended) with WebGL. Other browsers are untested.
 - **[Node.js](https://nodejs.org)** (20.6 or newer recommended) to run the tiny local server.
 - An **internet connection** the first time you play: [Three.js r128](https://cdnjs.com/libraries/three.js/r128) is loaded from the cdnjs CDN.
 
-### Download
+#### Download
 
 ```bash
 git clone https://github.com/BMKoscak/Chains-of-Hera.git
@@ -119,11 +138,11 @@ cd Chains-of-Hera
 
 …or use **Code → Download ZIP** on this page and unzip it.
 
-### Windows (easiest)
+#### Windows (double-click launcher)
 
 Double-click **`Play Chains of Hera.bat`**. It starts a local server and opens the game fullscreen in Chrome or Edge in its own browser profile. Close the console window to stop the server, and press <kbd>F11</kbd> to leave fullscreen.
 
-### macOS / Linux
+#### macOS / Linux
 
 The launcher script only knows how to open Chrome or Edge on Windows, so tell it not to try and open the page yourself:
 
@@ -132,7 +151,7 @@ HERA_NO_BROWSER=1 node scripts/serve.mjs
 # then open http://localhost:8137/index_7_1.html
 ```
 
-### Any other static server
+#### Any other static server
 
 The game is just static files, so any web server works as long as it serves this folder:
 
@@ -141,7 +160,7 @@ python3 -m http.server 8137
 # then open http://localhost:8137/index_7_1.html
 ```
 
-### First steps
+#### First steps
 
 1. **Click the game** so it can capture your mouse (this controls the camera).
 2. Press <kbd>Enter</kbd> or click to begin and let the narrator set the scene.
@@ -258,7 +277,7 @@ npm run voices -- --force # regenerates everything
 ## 🚨 Disclaimers
 
 > [!WARNING]
-> **Demo version.** Chains of Hera is an early, unfinished demo. It can be **updated, changed or broken at any time and without notice**: levels, balance, controls, story text and voice-over may change, features may be added or removed, and **save data may stop working or be reset** between versions.
+> **Demo version.** Chains of Hera is an early, unfinished demo. It can be **updated, changed or broken at any time and without notice**: levels, balance, controls, story text and voice-over may change, features may be added or removed, and **save data may stop working or be reset** between versions. The online version is redeployed whenever the repository changes.
 
 > [!NOTE]
 > **Made with AI.** The game was created with the help of AI: the code was written with AI assistance (Anthropic's Claude) under the direction of the author, and all voice-over is AI-generated speech. Expect rough edges, and please remember that AI-written code can contain bugs.
@@ -267,7 +286,7 @@ npm run voices -- --force # regenerates everything
 - **Provided as is.** The game is offered without warranty of any kind.
 - **Independent fan project.** It is inspired by the myths of ancient Greece and by classic 3D action-adventures. It is **not affiliated with, sponsored by or endorsed by** any film, television or video game franchise, studio or rights holder.
 - **Mythology, not history.** The story is a loose, playful retelling of Greek myth.
-- **Privacy.** The game runs in your browser, has no accounts, no analytics and no tracking. The only thing it stores is your save in your browser's local storage, and the only request it makes to another server is loading Three.js from cdnjs.
+- **Privacy.** The game runs in your browser, has no accounts, no analytics and no tracking. The only thing it stores is your save in your browser's local storage, and the only request it makes to another server is loading Three.js from cdnjs (the online version is hosted on GitHub Pages).
 - **Performance.** The game uses WebGL. Older or very low-power devices may run it slowly.
 
 ## 🐛 Bugs, feedback and reviews
