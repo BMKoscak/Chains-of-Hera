@@ -1,0 +1,7 @@
+# Keep the Windows launcher on CRLF line endings
+*.bat text eol=crlf
+
+# Binary assets
+*.mp3 binary
+*.jpg binary
+*.png binary

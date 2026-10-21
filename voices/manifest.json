@@ -1,0 +1,330 @@
+{
+ "village/intro_0.mp3": {
+  "hash": "899787a57d07",
+  "text": "When the gods quarrel, it is mortals who bleed."
+ },
+ "village/intro_1.mp3": {
+  "hash": "46a5f8cbe51f",
+  "text": "Zeus, king of Olympus, has fallen silent. His queen Hera and his son Ares, god of war, have bound him in chains that no god can break."
+ },
+ "village/intro_2.mp3": {
+  "hash": "bf3df1d7de66",
+  "text": "With the Thunderer gone, the raiders of Ares burn their way across Greece, and Hera wakes monsters that have slept since the world was young."
+ },
+ "village/intro_3.mp3": {
+  "hash": "e4ed25c85eac",
+  "text": "Only one hero is half mortal and half god, and Hera has hated him since the day he was born. His name is Heracles."
+ },
+ "village/outro.mp3": {
+  "hash": "18677f3ab204",
+  "text": "The north gate stands open. Beyond it lies the road to Nemea, and the Lion."
+ },
+ "village/iolaus_lines_0.mp3": {
+  "hash": "77ae4a9414be",
+  "text": "Uncle! You saw the smoke too? Ares' raiders hit Thebes at dawn. Red cloaks, bronze helmets. Ares' men, no question."
+ },
+ "village/iolaus_lines_1.mp3": {
+  "hash": "72dadf57d08b",
+  "text": "There are two of them looting the old farmhouse right there. After that, follow the road over the river into town."
+ },
+ "village/iolaus_lines_2.mp3": {
+  "hash": "14582af81a68",
+  "text": "Old Tiresias will know what's going on. Find him in the agora. I'll circle round the farms and get the families out."
+ },
+ "village/iolaus_lines_3.mp3": {
+  "hash": "7bcbf43df2ea",
+  "text": "And Uncle, try to leave a few raiders for me, would you?"
+ },
+ "village/iolaus_again_0.mp3": {
+  "hash": "9c8fb60d4bba",
+  "text": "The agora is past the bridge, through the village. I'll catch up with you."
+ },
+ "village/melia_lines_0.mp3": {
+  "hash": "a36cdd142cd1",
+  "text": "They set the houses on fire when they couldn't find any silver. Watch your step, the flames are still burning."
+ },
+ "village/melia_lines_1.mp3": {
+  "hash": "26f55f182867",
+  "text": "They smashed our jars out of spite. Some of the old ones still have drachmas hidden inside."
+ },
+ "village/nikos_lines_0.mp3": {
+  "hash": "388e008118a9",
+  "text": "Are you really Heracles? My father says you can lift an ox over your head!"
+ },
+ "village/nikos_lines_1.mp3": {
+  "hash": "171d4eef4857",
+  "text": "There's a raider archer on the roof of the baker's house. You can climb up the stairs on the side, I do it all the time."
+ },
+ "village/dimos_lines_0.mp3": {
+  "hash": "e206a4d73e7e",
+  "text": "Ares' men took my best wine and paid me with a punch in the nose."
+ },
+ "village/dimos_lines_1.mp3": {
+  "hash": "786da46cb205",
+  "text": "If you're going after them, the temple of Zeus keeps a bronze sword on its altar. The priestess won't mind. Probably."
+ },
+ "village/tiresias_lines_0.mp3": {
+  "hash": "441a200fbd29",
+  "text": "Son of Zeus. I heard your footsteps on the bridge. My eyes have been dark for many years, but I still see."
+ },
+ "village/tiresias_lines_1.mp3": {
+  "hash": "f09c50b7defc",
+  "text": "Your father lies chained in the deepest vault of Olympus. Hera forged the chains. Ares stands guard over them."
+ },
+ "village/tiresias_lines_2.mp3": {
+  "hash": "3a58745d24ec",
+  "text": "Hera will send her beasts against you, one after another. The first waits in Nemea: a lion whose hide turns any blade."
+ },
+ "village/tiresias_lines_3.mp3": {
+  "hash": "b27931ada89c",
+  "text": "Ares' raiders hold the north quarter. They have dug a burning ditch before the gate so no runner can warn the other cities."
+ },
+ "village/tiresias_lines_4.mp3": {
+  "hash": "22f189643a0b",
+  "text": "I have told the people to pull down the barricade. Cross the camp, get over the burning ditch, and take the road to Nemea. If the ditch is too wide, the old wall walk on the west side runs above it."
+ },
+ "village/tiresias_again_0.mp3": {
+  "hash": "4f0cb7fc008d",
+  "text": "The gods are watching you, Heracles. One of them is hoping you fail."
+ },
+ "village/ianthe_lines_0.mp3": {
+  "hash": "e51a73522a29",
+  "text": "The altar of Zeus has been cold for nine days. Even the sacred flame will not light."
+ },
+ "village/ianthe_lines_1.mp3": {
+  "hash": "bac2428b39e7",
+  "text": "Take the bronze sword from the altar. Zeus would want it raised against the men who desecrate his city."
+ },
+ "village/ianthe_lines_2.mp3": {
+  "hash": "c2860855e515",
+  "text": "And if you are the curious sort: last winter's earthquake brought down the old columns behind the temple. Someone nimble could climb to the roof, where the offerings were once kept."
+ },
+ "forest/intro_0.mp3": {
+  "hash": "d164e28c0b12",
+  "text": "The road north from Thebes climbs into the hills of Nemea, where the forest grows so thick that noon looks like dusk."
+ },
+ "forest/intro_1.mp3": {
+  "hash": "5c24314d07fd",
+  "text": "For a year a lion has hunted these woods. Arrows break against its golden hide, and no shepherd will graze his flock beyond the old shrine."
+ },
+ "forest/intro_2.mp3": {
+  "hash": "3300a40986c0",
+  "text": "Hera sent the beast. Now she sends her servants after Heracles as well: brigands paid in temple gold, and satyrs who serve anyone who brings them wine."
+ },
+ "forest/outro.mp3": {
+  "hash": "81027256fa79",
+  "text": "The trail ends at a cave that smells of blood and old bones. Deep inside, something enormous is breathing."
+ },
+ "forest/molorchus_lines_0.mp3": {
+  "hash": "9675cf272da7",
+  "text": "A traveller? Here? Sit, sit. I'm only a poor shepherd, but you're welcome to what I have."
+ },
+ "forest/molorchus_lines_1.mp3": {
+  "hash": "4013bc6f15d1",
+  "text": "Heracles! Then the gods haven't forgotten us. The lion took my son's flock, and then it took my son."
+ },
+ "forest/molorchus_lines_2.mp3": {
+  "hash": "587ba40e4d29",
+  "text": "Take his shield. Bronze, from Argos. Hold it up and the beast's claws will slide right off it."
+ },
+ "forest/molorchus_lines_3.mp3": {
+  "hash": "be08b92490f4",
+  "text": "The den is past the ravine, beyond the hunters' camp, up on the lion's ridge. Cross the ravine on the old rafts, and watch for satyrs in the woods."
+ },
+ "forest/molorchus_again_0.mp3": {
+  "hash": "2cfc939dea55",
+  "text": "Bring back the lion's hide and I'll sacrifice my best ram to Zeus. Well. My only ram."
+ },
+ "forest/kleon_lines_0.mp3": {
+  "hash": "c64a4ed507b9",
+  "text": "You made it across the ravine? I fell in on my first try. Climbed out by the old rockfall on the north side."
+ },
+ "forest/kleon_lines_1.mp3": {
+  "hash": "e054e916a69a",
+  "text": "While I was down there I saw something shining on a stone pillar, east along the ravine floor. Gold, I'd swear it."
+ },
+ "forest/kleon_lines_2.mp3": {
+  "hash": "f6ac31f8b5d1",
+  "text": "The brigands up the ridge are working for someone. Paid in temple coin, the kind they mint at Hera's sanctuary in Argos."
+ },
+ "lerna/intro_0.mp3": {
+  "hash": "ef18a40c09dd",
+  "text": "With the Lion of Nemea defeated, Heracles wears its golden hide. No blade or claw can pierce it now."
+ },
+ "lerna/intro_1.mp3": {
+  "hash": "2248d3fe3282",
+  "text": "Hera answers by waking the oldest thing in her service: the Hydra, the many-headed serpent of the Lernaean swamp."
+ },
+ "lerna/intro_2.mp3": {
+  "hash": "cf798346f96f",
+  "text": "Its lair lies beneath a drowned temple of Hera, sealed long ago by the priests who fled the swamp."
+ },
+ "lerna/outro.mp3": {
+  "hash": "80ea03689af9",
+  "text": "The seal breaks with a sound like a breaking wave. Below the temple, something with many heads stirs in the dark water."
+ },
+ "lerna/iolaus3_lines_0.mp3": {
+  "hash": "7aa2ee89f431",
+  "text": "Uncle! Over here! I got your message from Nemea. A lion skin cloak, very stylish."
+ },
+ "lerna/iolaus3_lines_1.mp3": {
+  "hash": "aab3fc666af7",
+  "text": "The Hydra's lair is under Hera's drowned temple, north across the marsh. The doors are sealed with old magic. Only the three signal beacons can break it."
+ },
+ "lerna/iolaus3_lines_2.mp3": {
+  "hash": "c852b5c30de8",
+  "text": "One stands on the fishermen's watchtower to the west. One is on an island past the sunken columns to the east. The last is by Hera's statue on the western lake."
+ },
+ "lerna/iolaus3_lines_3.mp3": {
+  "hash": "15cd32506fc9",
+  "text": "Don't step in the bog water, it burns like acid. I'll gather torches. Something tells me we'll need fire against that beast."
+ },
+ "lerna/iolaus3_again_0.mp3": {
+  "hash": "bd59b6c9b5fc",
+  "text": "Watchtower to the west, the sunken columns to the east, Hera's statue across the western lake."
+ },
+ "lerna/lykos_lines_0.mp3": {
+  "hash": "9af95c6acab8",
+  "text": "The raft on the west lake still runs, if you step on it at the old dock. It goes straight to Hera's statue."
+ },
+ "lerna/lykos_lines_1.mp3": {
+  "hash": "66f66b28638b",
+  "text": "Climb my watchtower for the best view of the swamp. My grandfather hid something on the lookout roof. I've never been able to reach it."
+ },
+ "labyrinth/intro_0.mp3": {
+  "hash": "4bca20b32d71",
+  "text": "The Hydra is dead, its last head buried under a rock in the swamp. But Hera still has servants."
+ },
+ "labyrinth/intro_1.mp3": {
+  "hash": "b448e7df611c",
+  "text": "Beneath the palace of Knossos lies the Labyrinth, built by Daedalus to imprison the Minotaur. Hera has set the beast loose in its corridors."
+ },
+ "labyrinth/intro_2.mp3": {
+  "hash": "92a5cb4cc838",
+  "text": "Somewhere at the heart of the maze, Daedalus left the only map of the way to Olympus. To reach it, Heracles must walk where no one has walked out again."
+ },
+ "labyrinth/outro.mp3": {
+  "hash": "a1019870184f",
+  "text": "At the heart of the Labyrinth the air grows hot and smells of cattle. Something enormous paces in the dark, waiting."
+ },
+ "labyrinth/ariadne_lines_0.mp3": {
+  "hash": "9f9eb0f4d343",
+  "text": "You must be Heracles. I am Ariadne, daughter of King Minos. My father would rather I didn't help you, which is exactly why I will."
+ },
+ "labyrinth/ariadne_lines_1.mp3": {
+  "hash": "e413dd9019cf",
+  "text": "Nobody finds their way through the Labyrinth by memory. Take this ball of thread. I have tied one end to the gate."
+ },
+ "labyrinth/ariadne_lines_2.mp3": {
+  "hash": "08524fa9fb0b",
+  "text": "Follow the golden line on the floor and it will lead you to the heart of the maze. The dead ends hold treasures, and things that guard them."
+ },
+ "labyrinth/ariadne_lines_3.mp3": {
+  "hash": "61a84a9ad205",
+  "text": "Daedalus forged a golden sword before my father locked him away. He hid it somewhere in the maze. If you find it, the Minotaur will feel it."
+ },
+ "labyrinth/ariadne_again_0.mp3": {
+  "hash": "49d4751d86dd",
+  "text": "Follow the thread. And Heracles, come back."
+ },
+ "underworld/intro_0.mp3": {
+  "hash": "74a6ece3eb1b",
+  "text": "The Minotaur lies still. In the heart of the Labyrinth, Daedalus's map shows a road no living man has walked."
+ },
+ "underworld/intro_1.mp3": {
+  "hash": "9e4e854847a4",
+  "text": "Hera has sealed every gate of Olympus. Only one path remains: the Stair of Souls, the road Hermes uses to guide the dead, which climbs from the Underworld up to the clouds."
+ },
+ "underworld/intro_2.mp3": {
+  "hash": "478040dd9eab",
+  "text": "To reach it, Heracles must cross the river Styx and walk through the halls of Hades himself."
+ },
+ "underworld/outro.mp3": {
+  "hash": "fe696249885f",
+  "text": "At the top of the Stair the darkness ends in white light and cold wind. Above the clouds, Olympus waits."
+ },
+ "underworld/charon_lines_0.mp3": {
+  "hash": "863ddcf1e3db",
+  "text": "The living do not cross my river."
+ },
+ "underworld/charon_lines_1.mp3": {
+  "hash": "96420811f4df",
+  "text": "...Son of Zeus. I remember your father. He paid in gold."
+ },
+ "underworld/charon_lines_2.mp3": {
+  "hash": "9242aaefa63c",
+  "text": "One coin. Then step onto the ferry, and do not look into the water. The dead look back."
+ },
+ "underworld/charon_again_0.mp3": {
+  "hash": "483706d6ff48",
+  "text": "The ferry runs while you are on this side of the river. Go."
+ },
+ "underworld/persephone_lines_0.mp3": {
+  "hash": "389a00bea181",
+  "text": "A living hero in my husband's halls. Hades is away, which is lucky for you."
+ },
+ "underworld/persephone_lines_1.mp3": {
+  "hash": "b630a8cdbfce",
+  "text": "Hera trapped me down here too, long ago. Take this wreath from my garden. Its leaves still remember the sun."
+ },
+ "underworld/persephone_lines_2.mp3": {
+  "hash": "605d393ca1e1",
+  "text": "The Stair of Souls is behind the palace. Climb it, and do not stop. The shades on the steps will try to drag you back down."
+ },
+ "underworld/persephone_again_0.mp3": {
+  "hash": "cbeb7723554f",
+  "text": "Climb, Heracles. And when you see Zeus, tell him his daughter misses the spring."
+ },
+ "olympus/intro_0.mp3": {
+  "hash": "596457c82f4d",
+  "text": "The Stair of Souls ends in a sea of cloud, and on the clouds stands Olympus: gardens of marble and gold, empty and silent."
+ },
+ "olympus/intro_1.mp3": {
+  "hash": "91c6b0d0de8a",
+  "text": "The other gods have fled or hidden. Only Hera's bronze giants and Ares' guards remain, standing watch over the vault where the king of the gods lies chained."
+ },
+ "olympus/intro_2.mp3": {
+  "hash": "278e9a6f1d08",
+  "text": "Heracles has crossed the world to get here. One climb remains."
+ },
+ "olympus/outro.mp3": {
+  "hash": "6f1172697d82",
+  "text": "Heracles wraps the chain around his fists, plants his feet, and pulls."
+ },
+ "olympus/hermes_lines_0.mp3": {
+  "hash": "5f327aee99f4",
+  "text": "You actually climbed the whole Stair? I've walked it ten thousand times and I still hate it."
+ },
+ "olympus/hermes_lines_1.mp3": {
+  "hash": "edb2089efd88",
+  "text": "Hera's giants patrol the sky gardens. The vault is past the high temple, across the broken golden bridge."
+ },
+ "olympus/hermes_lines_2.mp3": {
+  "hash": "a291e5f7cc8f",
+  "text": "Don't fall. The clouds look soft. They are not."
+ },
+ "olympus/hermes_lines_3.mp3": {
+  "hash": "01b6f0fad5bc",
+  "text": "Father has been chained for a long time, brother. Go and get him."
+ },
+ "olympus/hermes_again_0.mp3": {
+  "hash": "cdb56c471551",
+  "text": "North, past the temple, across the bridge. Go!"
+ },
+ "ending_0.mp3": {
+  "hash": "3aed91b6c5e2",
+  "text": "Heracles tears the last link of Hera's chain apart, and thunder rolls across the sky for the first time in a season."
+ },
+ "ending_1.mp3": {
+  "hash": "019cdc6e7047",
+  "text": "Zeus rises from the vault. Ares flees to Thrace, and Hera, for once, says nothing at all."
+ },
+ "ending_2.mp3": {
+  "hash": "4c02f33ee9ad",
+  "text": "In Thebes, Tiresias smiles at a sound only he can hear. In Nemea, a shepherd lights a fire on the old shrine. Somewhere on the road, Iolaus is already telling the story wrong."
+ },
+ "ending_3.mp3": {
+  "hash": "90dc5ea9f7ff",
+  "text": "Thank you for playing. Everything you saw and heard (models, textures, music and sound) was generated in code. Inspired by the myths of ancient Greece."
+ }
+}
