@@ -1,0 +1,37 @@
+name: 💬 Feedback / review
+description: Share a review, an opinion or an idea for the game.
+title: "[Feedback] "
+labels: ["feedback"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for playing **Chains of Hera**! This is a demo that can change at any time, and honest feedback helps shape it.
+  - type: dropdown
+    id: rating
+    attributes:
+      label: Overall impression
+      options:
+        - ⭐⭐⭐⭐⭐ Loved it
+        - ⭐⭐⭐⭐ Really good
+        - ⭐⭐⭐ It's okay
+        - ⭐⭐ Needs work
+        - ⭐ Didn't enjoy it
+  - type: textarea
+    id: liked
+    attributes:
+      label: What did you like?
+  - type: textarea
+    id: improve
+    attributes:
+      label: What could be better?
+      description: Controls, difficulty, camera, story, voice-over, performance, anything.
+  - type: textarea
+    id: ideas
+    attributes:
+      label: Ideas or requests
+  - type: input
+    id: progress
+    attributes:
+      label: How far did you get?
+      placeholder: "e.g. Finished chapter III"

@@ -1,0 +1,67 @@
+name: 🐞 Bug report
+description: Something broke, glitched or didn't work the way it should.
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping to improve **Chains of Hera**! This is an early AI-made demo, so bugs are expected and every report helps.
+  - type: dropdown
+    id: chapter
+    attributes:
+      label: Chapter
+      description: Where did it happen?
+      options:
+        - Title screen / menus
+        - I. The Burning of Thebes
+        - II. The Forest of Nemea
+        - III. The Swamp of Lerna
+        - IV. The Labyrinth of Crete
+        - V. The Underworld
+        - VI. Mount Olympus
+        - Ending
+        - Not sure
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Describe the bug and what you expected to happen instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: How can we make it happen again? Roughly where in the chapter were you?
+      placeholder: |
+        1. Start chapter ...
+        2. Walk to ...
+        3. ...
+  - type: dropdown
+    id: input
+    attributes:
+      label: Input device
+      options:
+        - Keyboard and mouse
+        - Gamepad
+        - Both
+  - type: input
+    id: environment
+    attributes:
+      label: Browser and operating system
+      placeholder: "e.g. Chrome 130 on Windows 11"
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Game version or commit
+      description: Check the file name (for example `index_7_1.html`) or the latest commit you downloaded.
+  - type: textarea
+    id: extra
+    attributes:
+      label: Screenshots or console output
+      description: Drag in a screenshot, or paste any errors from the browser console (F12).
