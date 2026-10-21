@@ -38,7 +38,7 @@ Free Zeus from his chains across six chapters, from burning Thebes to the peak o
 - [Credits](#-credits)
 - [License](#-license)
 
-## 🏛️ About the game
+## 📜 About the game
 
 > *When the gods quarrel, it is mortals who bleed.*
 
@@ -89,7 +89,7 @@ Play through six chapters of third-person action: fight, roll, block and jump yo
 - 🖥️ **Retro presentation**: renders at 640×480 (4:3) or 854×480 (widescreen) and scales up for that chunky N64 look.
 - 📦 **No build step and no engine install**: one HTML file, one script from a CDN and some MP3s.
 
-## 🗺️ The six chapters
+## 🧭 The six chapters
 
 | # | Chapter | Setting | First objective |
 |:-:|---|---|---|
@@ -240,7 +240,7 @@ Chains-of-Hera/
 
 </details>
 
-## 🎙️ Voice-over
+## 🎤 Voice-over
 
 All spoken lines (the narrator and every NPC) are **AI-generated speech** made with [ElevenLabs](https://elevenlabs.io/) text-to-speech and stored in [`voices/`](voices). There are no human voice actors. If a voice file is missing, the game simply skips it, so the dialogue box still works with text only.
 
@@ -255,7 +255,7 @@ npm run voices -- --force # regenerates everything
 
 `.env.local` is listed in `.gitignore` so your key is never committed.
 
-## ⚠️ Disclaimers
+## 🚨 Disclaimers
 
 > [!WARNING]
 > **Demo version.** Chains of Hera is an early, unfinished demo. It can be **updated, changed or broken at any time and without notice**: levels, balance, controls, story text and voice-over may change, features may be added or removed, and **save data may stop working or be reset** between versions.
